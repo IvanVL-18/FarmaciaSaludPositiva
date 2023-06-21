@@ -26,6 +26,7 @@ public class Menu extends javax.swing.JFrame {
         etiqueta2.setIcon(new ImageIcon(imagen.getImage().getScaledInstance(etiqueta2.getWidth(), etiqueta2.getHeight(), Image.SCALE_SMOOTH)));
         setResizable(false);
         
+        
     }
 
     /**
